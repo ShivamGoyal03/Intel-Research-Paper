@@ -1,0 +1,6 @@
+Inference Time (Latency): 0.0010526180267333984
+Throughput: 1413.3656827065643
+Model Load Time: 1.3888754844665527
+CPU Utilization: 53.8
+BLEU Score: 0.2444369701980764
+Fine-tuning Time: 787.3675546646118
