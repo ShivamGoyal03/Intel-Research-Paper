@@ -1,8 +1,13 @@
 /results
 /my_gpt_model
+/my_gpt2_model
 /fine_tuned_gpt_model
+/logs
 
 .gitattributes
 *.pptx
 *.bin
 *.onnx
+*.xml
+
+*.safetensors
