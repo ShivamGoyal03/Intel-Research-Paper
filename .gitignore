@@ -1,6 +1,5 @@
 /results
-/my_gpt_model
-/my_gpt2_model
+/my_*
 /fine_tuned_gpt_model
 /logs
 
